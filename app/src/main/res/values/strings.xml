@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">kotlinflow</string>
+    <string name="add_word">add</string>
 </resources>
